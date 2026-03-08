@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+openai
+
+pytest
+httpx
+black
+isort
+flake8
